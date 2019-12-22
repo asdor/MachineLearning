@@ -1,2 +1,4 @@
 env_lab/
 .ipynb_checkpoints/
+.vscode/
+lab3/notMNIST/
